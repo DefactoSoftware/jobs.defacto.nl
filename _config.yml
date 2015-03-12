@@ -1,0 +1,13 @@
+# Site settings
+title: jobs.defacto.nl
+email: g.veenstra@defacto.nl
+description: > # this means to ignore newlines until "baseurl:"
+  Ben jij iemand met een persoonlijkheid en steek je je mening niet onder stoelen en banken?
+  Bij Defacto zijn we altijd op zoek naar mensen die ons inspireren.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jobs.defacto.nl" # the base hostname & protocol for your site
+twitter_username: defactosoftware
+github_username:  defactosoftware
+
+# Build settings
+markdown: kramdown
