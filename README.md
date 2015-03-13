@@ -2,13 +2,15 @@
 
 With Jekyll.
 
-Tot run locally you need simple http server like 
+Tot run locally you need the jekyll gem
 
-Python's simple http server
-`python -m SimpleHTTPServer 8000`
+```
+gem install jekyll
 
-Or a nodeJS server
-`npm install http-server -g && http-serve`
+jekyll serve
+```
+
+Then go to `localhost:4000`
 
 # Contribute
 
