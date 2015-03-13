@@ -11,3 +11,7 @@ github_username:  defactosoftware
 
 # Build settings
 markdown: kramdown
+
+assets:
+  sources:
+    - /fonts
