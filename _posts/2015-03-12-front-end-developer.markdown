@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Front-end Developer"
-date:   2015-03-12 14:22:53
+date:   2015-08-19 14:22:53
 categories:
 ---
 **Voor de uitbreiding van ons team zijn wij op zoek naar front-end developers**. Voor ons Learning Management System CAPP (150.000+ gebruikers in Nederland) ontwikkelen we een nieuwe client in _Ember.js_.
