@@ -30,3 +30,5 @@ Elke vrijdag is er ruimte om je te verdiepen in nieuwe technieken, producten, et
 
 Geinteresseerd?
 
+Let op: acquisitie op basis van deze vacature wordt niet op prijs gesteld
+
