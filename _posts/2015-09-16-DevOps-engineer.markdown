@@ -8,11 +8,11 @@ categories: DevOps
 
 Voor ons Learning Management System CAPP (150.000+ gebruikers in Nederland) zijn
 we op zoek naar een (.NET) developer die een sterke affiniteit heeft met de
-Operations-kant van het ontwikkel proces. Een ideale kandidaat vindt het
+Operations-kant van het ontwikkelproces. Als ideale kandidaat, vindt jij het
 niet alleen leuk en uitdagend om een complex pakket als CAPP functioneel te
-beheren, maar ook om alle aanverwante processen te optimaliseren.
+beheren, maar ook om alle processen er omheen te optimaliseren.
 
-De kandidaat is hiernaast natuurlijk proactief, vindingrijk en communicatief vaardig.
+Daarnaast ben je natuurlijk proactief, vindingrijk en communicatief vaardig.
 
 ### Je hebt bij voorkeur ervaring met:
 
@@ -28,7 +28,7 @@ De kandidaat is hiernaast natuurlijk proactief, vindingrijk en communicatief vaa
 
 Binnen onze workflow spelen code review en pair programming een belangrijke rol,
 het is dus mooi meegenomen als je daar al ervaring mee hebt. We zoeken iemand
-die mee denkt en zaken voor elkaar krijgt, zowel in teamverband als individueel.
+die meedenkt en zaken voor elkaar krijgt, zowel in teamverband als individueel.
 
 ### Taken die doorgaans op je bordje liggen:
 
@@ -56,7 +56,7 @@ We geloven dat het belangrijk is om in een leuke omgeving te kunnen werken.
 Onze werktijden zijn flexibel, het gaat om de kwaliteit die je aflevert.
 
 Je hebt de mogelijkheid gebruik te maken van een BYOD regeling, Defacto betaalt
-dan de helft van je device!
+dan de helft van een device naar jouw keuze!
 
 Elke vrijdag is er ruimte om je te verdiepen in nieuwe technieken, producten, etc.
 
