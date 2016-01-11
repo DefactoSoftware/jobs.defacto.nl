@@ -1,6 +1,6 @@
 ---
 layout: post_de
-title:  "Business Developer"
+title:  "Business Developer (de)"
 date:   2016-01-08 09:00:00
 categories:
 ---
