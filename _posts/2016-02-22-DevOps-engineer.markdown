@@ -1,12 +1,15 @@
 ---
 layout: post
 title:  "DevOps Engineer (nl)"
-date:   2015-09-16
-categories: DevOps
+date:   2016-02-22 9:00:00
+categories: 
+redirect_from:
+  - devops/2015/09/16/DevOps-engineer.html
+  - /2016/02/22/DevOps-engineer.html
 ---
 **Voor de uitbreiding van ons team zijn wij op zoek naar een DevOps engineer**.
 
-Voor ons Learning Management System CAPP (150.000+ gebruikers in Nederland) zijn
+Voor ons Learning Management System CAPP (200.000+ gebruikers in Nederland) zijn
 we op zoek naar een (.NET) developer die een sterke affiniteit heeft met de
 Operations-kant van het ontwikkelproces. Als ideale kandidaat, vind jij het
 niet alleen leuk en uitdagend om een complex pakket als CAPP functioneel te

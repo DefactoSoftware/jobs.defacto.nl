@@ -1,10 +1,14 @@
 ---
 layout: post
-title:  "Front-end Developer"
-date:   2015-08-19 14:22:53
+title:  "Front-end Developers (nl)"
+date:   2016-02-22 9:00:00
 categories:
----
-**Voor de uitbreiding van ons team zijn wij op zoek naar front-end developers**. Voor ons Learning Management System CAPP (150.000+ gebruikers in Nederland) ontwikkelen we een nieuwe client in _Ember.js_.
+redirect_from:
+  - /2015/08/19/front-end-developer.html
+  - /2016/02/22/front-end-developers.html
+----
+
+**Voor de uitbreiding van ons team zijn wij op zoek naar front-end developers**. Voor ons Learning Management System CAPP (200.000+ gebruikers in Nederland) ontwikkelen we een nieuwe client in _Ember.js_.
 Wij zoeken daarom naar ervaren front-enders met gevoel voor UX. Daarnaast werken we aan een nieuw product, [LearningSpaces](http://www.learningspaces.io) (www.learningspaces.io) - ook in Ember, maar met een _Ruby on Rails_ back-end.
 
 ### Je hebt bij voorkeur ervaring met:

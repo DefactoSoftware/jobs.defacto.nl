@@ -15,3 +15,6 @@ markdown: kramdown
 assets:
   sources:
     - /fonts
+
+gems:
+  - jekyll-redirect-from

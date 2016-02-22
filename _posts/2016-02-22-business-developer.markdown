@@ -1,8 +1,11 @@
 ---
 layout: post_de
 title:  "Business Developer (de)"
-date:   2016-01-08 09:00:00
+date:   2016-02-22 9:00:00
 categories:
+redirect_from:
+  - 2016/01/08/business-developer.html
+  - /2016/02/22/business-developer.html
 ---
 Du möchtest Freiheiten, tiefe Einblicke und viel Verantwortung? Du möchtest dein Können und deine Talente unter Beweis stellen und in einem großartigen, deutsch-niederländischen Team arbeiten?
 
