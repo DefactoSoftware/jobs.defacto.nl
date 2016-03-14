@@ -23,7 +23,7 @@ Defacto kent een platte organisatie en hoge mate van transparantie. De verantwoo
 
 We geloven dat het belangrijk is om in een leuke omgeving te kunnen werken. Onze werktijden zijn flexibel, het gaat om de kwaliteit die je aflevert. En je denkt echt mee over een product.
 
-Je hebt de mogelijkheid gebruik te maken van een BYOD regeling, Defacto betaald dan de helft van je device en hij is van jou!
+Je hebt de mogelijkheid gebruik te maken van een BYOD regeling, Defacto betaalt dan de helft van je device en hij is van jou!
 
 Elke vrijdag is er ruimte om je te verdiepen in nieuwe technieken, producten, etc.
 
