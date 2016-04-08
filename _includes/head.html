@@ -6,8 +6,6 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-  {% if page.url == 2015/08/19/front-end-developer.html %} <meta http-equiv="refresh" content="0; url=http://www.ronalddijkstra.nl"> {% endif %}
-
   <link href='//fonts.googleapis.com/css?family=Lusitana:400,700' rel='stylesheet' type='text/css'>
   <link href='//fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
   <link href='//fonts.googleapis.com/css?family=Merriweather+Sans:400,300,300italic,400italic,700italic,700,800,800italic' rel='stylesheet' type='text/css'>
@@ -42,7 +40,7 @@
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
     ga('create', 'UA-6700447-1', 'auto', {'allowLinker': true});
     ga('require', 'linker');
-    ga('linker:autoLink', ['www.defacto.nl']);
+    ga('linker:autoLink', ['jobs.defacto.nl']);
     ga('send', 'pageview');
   </script>
 </head>
