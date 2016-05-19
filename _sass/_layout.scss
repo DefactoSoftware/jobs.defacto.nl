@@ -108,8 +108,11 @@
 .social-media-list {
   list-style: none;
   margin-left: 0;
-}
 
+  li {
+    margin-bottom: 0.6em;
+  }
+}
 .footer-col-wrapper {
   color: $grey-color;
   margin-left: -$spacing-unit / 2;
