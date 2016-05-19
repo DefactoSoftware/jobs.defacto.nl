@@ -6,8 +6,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Bij Defacto zijn we altijd op zoek naar mensen die ons inspireren.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jobs.defacto.nl/" # the base hostname & protocol for your site
-twitter_username: @DefactoSoftware
-github_username:  DefactoSoftware
+twitter_username: "@DefactoSoftware"
+github_username: DefactoSoftware
 
 # Build settings
 markdown: kramdown
