@@ -3,6 +3,10 @@ layout: post
 title:  "Rails Developer"
 date:   2016-03-07 14:22:53
 categories:
+redirect_from:
+  - 2016/03/07/rails-developer.html
+  - /2016/03/07/rails-developer.html
+permalink: rails-developer
 ---
 
 Voor de uitbreiding van ons team zijn wij op zoek naar Ruby on Rails developers. We zijn sinds september 2014 bezig met een nieuwe product LearningSpaces ([www.learningspaces.io](www.learningspaces.io)). Dat we graag verder ontwikkelen en waar we backend developers voor zoeken. LearningSpaces wordt gemaakt in Ruby on Rails met een Ember front-end.

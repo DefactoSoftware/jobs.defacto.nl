@@ -6,6 +6,7 @@ categories:
 redirect_from:
   - 2016/01/08/software-developer.html
   - /2016/02/22/software-developer.html
+permalink: software-developer
 ---
 Du möchtest Freiheiten, tiefe Einblicke und viel Verantwortung? Du möchtest dein Können und deine Talente unter Beweis stellen und in einem großartigen, deutsch-niederländischen Team arbeiten?
 
