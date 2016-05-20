@@ -10,7 +10,7 @@ Voor uitbreiding van ons succesvolle sales team zijn wij op zoek naar een Accoun
 
 ## Functieprofiel
 
-De Accountmanager New Business die wij zoeken is in de eerste plaats geïnteresseerd in de software producten en de markten die Defacto bedient. Je bent verantwoordelijk voor het genereren van new business en denkt proactief mee over sales- en marketingactiviteiten. Doelmarkten; overheid, zorg en bedrijven met meer dan 1500 medewerkers.
+De Accountmanager New Business die wij zoeken is geïnteresseerd in de software producten en de markten die Defacto bedient. Je bent verantwoordelijk voor het genereren van new business en denkt proactief mee over sales- en marketingactiviteiten. Doelmarkten; overheid, zorg en bedrijven met meer dan 1500 medewerkers.
 
 Je bent in staat een uitstekend landelijk netwerk in Zorg of Overheid mee te nemen of op te bouwen. Gevoel voor verhoudingen en een commerciële drive zijn sleutelwoorden voor een succesvolle invulling van deze functie. Daarnaast vind je het geen probleem om veel te reizen.
 
