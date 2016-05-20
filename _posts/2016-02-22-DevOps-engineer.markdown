@@ -2,7 +2,7 @@
 layout: post
 title:  "DevOps Engineer (nl)"
 date:   2016-02-22 9:00:00
-categories: 
+categories:
 redirect_from:
   - devops/2015/09/16/DevOps-engineer.html
   - /2016/02/22/DevOps-engineer.html
@@ -67,7 +67,3 @@ Ben jij iemand die het in zijn mars heeft om zowel op het vlak Operations als
 Development te opereren en neem je doorgaans geen blad voor je mond?
 
 Reageer dan direct!
-
-(Let op: acquisitie op basis van deze vacature wordt niet op prijs gesteld)
-
-
