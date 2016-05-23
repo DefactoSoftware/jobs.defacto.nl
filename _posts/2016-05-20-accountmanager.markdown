@@ -21,16 +21,16 @@ De ideale kandidaat heeft het volgende profiel:
 - Je beschikt over een relevante HBO of WO opleiding;
 - Je hebt minimaal 5 jaar relevante commerciële werkervaring;
 - Je hebt aantoonbare succesvolle ervaring met multilevel selling van grootschalige (standaard) software producten en projecten;
-- Je hebt ervaring met de opleidings- & HRD markt zowel in profit als non-profit sector is gewenst, bij voorkeur in de Zorg of bij de Overheid;
-- Je hebt uitstekende communicatieve en sociale vaardigheden, gesprekspartner tot op directie/management niveau;
+- Je hebt ervaring met de opleidings- & HRD markt zowel in profit als non-profit sector, bij voorkeur in de Zorg of bij de Overheid;
+- Je hebt uitstekende communicatieve en sociale vaardigheden en bent gesprekspartner tot op directie/management niveau;
 - Je bent conceptueel sterk;
-- Je een doorzetter en staat stevig in je schoenen;
+- Je bent een doorzetter en staat stevig in je schoenen;
 - Je bent gewend gestructureerd te werken en te rapporteren;
 - Je bent zelfstandig, flexibel en loyaal;
 - Analytisch vermogen en gezond verstand;
-- Gedreven en resultaatgericht, netwerker pur sang.
+- Je bent gedreven, resultaatgericht en een netwerker pur sang.
 
-Kortom: een sterke commerciële persoonlijkheid!
+Kortom: een je bent een sterke commerciële persoonlijkheid!
 
 ## Over ons
 
