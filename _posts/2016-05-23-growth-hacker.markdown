@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ondernemde sales growth hacker"
+title:  "Ondernemende sales growth hacker"
 date:   2016-05-23 14:22:53
 categories:
 permalink: growth-hacker
