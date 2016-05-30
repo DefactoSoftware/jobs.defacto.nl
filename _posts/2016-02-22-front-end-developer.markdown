@@ -32,4 +32,4 @@ Je hebt de mogelijkheid gebruik te maken van een BYOD regeling, Defacto betaalt 
 
 Elke vrijdag is er ruimte om je te verdiepen in nieuwe technieken, producten, etc.
 
-Geinteresseerd?
+Geïnteresseerd?
