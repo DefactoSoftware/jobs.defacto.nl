@@ -36,8 +36,6 @@ Kortom: een je bent een sterke commerciële persoonlijkheid!
 
 Defacto beweegt zich al jaren als toonaangevend ontwikkelaar van innovatieve software in het werkveld van Opleiden en Ontwikkelen. Het afgelopen decennium is Defacto uitgegroeid tot een solide, landelijk opererend, automatiseringsbedrijf, gevestigd in Groningen. De kernactiviteiten bestaan uit het digitaliseren en automatiseren van opleidingsafdelingen, bedrijfsacademies en opleidingsinstituten.
 
-Defacto bestaat al 30 jaar en is ouder dan de meeste van onze medewerkers. We zijn gevestigd in een prachtige villa in het centrum van Groningen, nabij het centraal station.
-Defacto kent een platte organisatie en een hoge mate van transparantie. En richt zich op grote corporate klanten. De verantwoordelijkheid ligt bij ons op de werkvloer bij de mensen zelf en wordt door de mensen zelf ook bewaakt.
-We geloven dat het belangrijk is om in een leuke omgeving te kunnen werken. Onze werktijden zijn flexibel, het gaat om de kwaliteit en de meerwaarde die je aflevert.
+Defacto bestaat al 30 jaar en is ouder dan de meeste van onze medewerkers. We zijn gevestigd in een prachtige villa in het centrum van Groningen, nabij het centraal station. Defacto kent een platte organisatie en een hoge mate van transparantie. En richt zich op grote corporate klanten. De verantwoordelijkheid ligt bij ons op de werkvloer bij de mensen zelf en wordt door de mensen zelf ook bewaakt. We geloven dat het belangrijk is om in een leuke omgeving te kunnen werken. Onze werktijden zijn flexibel, het gaat om de kwaliteit en de meerwaarde die je aflevert.
 
 ## Geïnteresseerd?
