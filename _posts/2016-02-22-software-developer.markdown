@@ -33,4 +33,4 @@ Als Software Developer arbeitest du in unserem facettenreichen Team an den versc
 * Eigenverantwortliche, herausfordernde Aufgaben
 * Luft, Liebe, Leben und Arbeiten in Groningen
 
-Haben wir Dein Interesse geweckt? Dann freuen wir uns über Deine aussagekräftige Bewerbung. Deine Ansprechpartnerin ist Janine Veenker, j.veenker@defacto.nl.
+Haben wir Dein Interesse geweckt? Dann freuen wir uns über Deine aussagekräftige Bewerbung. Deine Ansprechpartnerin ist Esther Joosten, e.joosten@defacto.nl.
