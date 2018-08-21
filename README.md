@@ -1,4 +1,4 @@
-# Defacto Jobs
+# Deprecated Defacto Jobs
 
 With Jekyll.
 
@@ -17,5 +17,3 @@ Then go to `localhost:4000`
 Fork the repo
 Create a new branch
 Open a PR
-
-
